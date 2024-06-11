@@ -1,0 +1,2 @@
+# pages-example
+class exercise
